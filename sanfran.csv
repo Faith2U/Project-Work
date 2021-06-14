@@ -1,0 +1,116 @@
+,Neighborhood,Latitude,Longitude,Cluster Labels,1st Most Common Venue,2nd Most Common Venue,3rd Most Common Venue,4th Most Common Venue,5th Most Common Venue,6th Most Common Venue,7th Most Common Venue,8th Most Common Venue,9th Most Common Venue,10th Most Common Venue
+0,Alamo Square,37.7763599,-122.43470002366266,0,Bar,Indian Restaurant,Food Truck,Café,Seafood Restaurant,Sushi Restaurant,Record Shop,Pizza Place,Ethiopian Restaurant,Bakery
+1,Anza Vista,37.7808364,-122.4431489,0,Café,Coffee Shop,Bus Station,Sandwich Place,Tunnel,Health & Beauty Service,Arts & Crafts Store,Pet Store,Convenience Store,Cosmetics Shop
+3,Balboa Hollow,37.798793700000004,-122.43609848645681,0,Cosmetics Shop,Gym / Fitness Center,Wine Bar,Italian Restaurant,French Restaurant,Mexican Restaurant,Ice Cream Shop,Salad Place,Deli / Bodega,Motel
+4,Balboa Terrace,37.7313,-122.4687,0,Light Rail Station,Optical Shop,Intersection,Bakery,Comic Shop,Playground,Sushi Restaurant,Pharmacy,Restaurant,Gym
+5,Bayview,37.7288889,-122.3925,0,Bakery,Café,Southern / Soul Food Restaurant,Pharmacy,Pool,Chinese Restaurant,Coffee Shop,BBQ Joint,Piercing Parlor,Gym
+6,Belden Place,37.791744,-122.4038861,0,Coffee Shop,Boutique,Men's Store,Bubble Tea Shop,Hotel,Sandwich Place,Sushi Restaurant,Jewelry Store,Clothing Store,French Restaurant
+7,Bernal Heights,37.7429861,-122.4158042,0,Coffee Shop,Italian Restaurant,Playground,Trail,Mexican Restaurant,Yoga Studio,Food Truck,Chinese Restaurant,Gourmet Shop,Grocery Store
+8,Buena Vista,37.8065321,-122.4206485,0,Ice Cream Shop,Park,Chocolate Shop,Historic Site,Tour Provider,Gift Shop,Diner,Boat or Ferry,Gym / Fitness Center,Gym
+9,Butchertown,37.74347,-122.38476,0,Coffee Shop,Garden Center,Sandwich Place,Building,Music Store,General Entertainment,Food Truck,Park,Chinese Restaurant,Thrift / Vintage Store
+10,Castro,37.7608561,-122.434957,0,Gay Bar,Coffee Shop,Thai Restaurant,New American Restaurant,Yoga Studio,Deli / Bodega,Mexican Restaurant,Mediterranean Restaurant,Arts & Crafts Store,Convenience Store
+11,Cathedral Hill,37.7842,-122.4254,0,Hotel,Sushi Restaurant,Shopping Mall,Gift Shop,Japanese Restaurant,Ramen Restaurant,Coffee Shop,Park,Korean Restaurant,Gym
+12,Cayuga Terrace,37.7246,-122.44,0,Mexican Restaurant,Sandwich Place,Vietnamese Restaurant,Latin American Restaurant,Bank,Bar,Coffee Shop,Bakery,Deli / Bodega,Park
+13,China Basin,37.7771799,-122.3866825,0,Baseball Stadium,Coffee Shop,Outdoor Sculpture,Sandwich Place,Park,Brewery,Monument / Landmark,Performing Arts Venue,Beer Garden,Fast Food Restaurant
+14,Chinatown,37.7943011,-122.4063757,0,Chinese Restaurant,Bakery,Coffee Shop,Cocktail Bar,Tea Room,New American Restaurant,Bubble Tea Shop,Café,Dim Sum Restaurant,Italian Restaurant
+15,Civic Center,37.7795939,-122.4167938,0,Vietnamese Restaurant,Beer Bar,Hotel,Sandwich Place,Coffee Shop,Café,Theater,Vegetarian / Vegan Restaurant,Bakery,Hotel Bar
+16,Clarendon Heights,37.755154,-122.4528729,1,Trail,Monument / Landmark,Playground,Yemeni Restaurant,Exhibit,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market
+17,Cole Valley,37.7658133,-122.4499624,0,Thrift / Vintage Store,Pizza Place,Wine Bar,Gift Shop,Breakfast Spot,Bookstore,Boutique,Board Shop,Sports Bar,Playground
+18,Corona Heights,37.7648857,-122.4393677,0,Park,Gay Bar,Scenic Lookout,Cosmetics Shop,Public Art,Trail,Hill,Shoe Store,Coffee Shop,Salon / Barbershop
+19,Cow Hollow,37.7972616,-122.4362477,0,Cosmetics Shop,Gym / Fitness Center,Wine Bar,French Restaurant,Italian Restaurant,Juice Bar,Mexican Restaurant,Coffee Shop,Sushi Restaurant,Motel
+20,Crocker-Amazon,37.7093777,-122.4385868,0,Liquor Store,Dog Run,Yemeni Restaurant,Food Stand,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market,Flower Shop,Food
+21,Design District,37.769,-122.4019,0,Furniture / Home Store,Coffee Shop,Art Gallery,Jewelry Store,Bar,Café,Food Truck,Bus Station,Burger Joint,Nightclub
+22,Diamond Heights,37.7424,-122.4425,1,Trail,Shopping Mall,Grocery Store,Pharmacy,Korean Restaurant,Dim Sum Restaurant,Coffee Shop,Playground,Salon / Barbershop,Eye Doctor
+23,Dogpatch,37.7606977,-122.3892016,0,Wine Bar,Park,Gym / Fitness Center,Gift Shop,Café,Cocktail Bar,Sandwich Place,Bakery,Bar,Restaurant
+24,Dolores Heights,37.756118,-122.4309321,0,Deli / Bodega,Public Art,Trail,Thai Restaurant,Park,Playground,Plaza,Grocery Store,Hill,Food Court
+25,Duboce Triangle,37.7671382,-122.43223,0,Coffee Shop,Gym,Grocery Store,Mexican Restaurant,Gay Bar,New American Restaurant,Sandwich Place,Cocktail Bar,Seafood Restaurant,Pet Store
+26,Embarcadero,37.792855,-122.3968986,0,Coffee Shop,Japanese Restaurant,Sandwich Place,Gym,Seafood Restaurant,Burger Joint,Gym / Fitness Center,Food Truck,Park,Cycle Studio
+27,Eureka Valley,37.7609556,-122.4355087,0,Gay Bar,Thai Restaurant,Coffee Shop,New American Restaurant,Yoga Studio,Deli / Bodega,Mediterranean Restaurant,Arts & Crafts Store,Cosmetics Shop,Convenience Store
+28,Excelsior,37.7217943,-122.4353815,0,Mexican Restaurant,Convenience Store,Chinese Restaurant,Bakery,Sandwich Place,Bank,Bar,Latin American Restaurant,Vietnamese Restaurant,Pizza Place
+29,Fillmore,37.7840829,-122.4330853,0,Japanese Restaurant,Bakery,Spa,Tea Room,Gift Shop,Shopping Mall,Ramen Restaurant,Grocery Store,New American Restaurant,Gym / Fitness Center
+30,Financial District,37.7936467,-122.3989378,0,Coffee Shop,Men's Store,Food Truck,Gym / Fitness Center,Cosmetics Shop,Restaurant,Gym,Japanese Restaurant,Park,Seafood Restaurant
+31,Financial District South,37.7936467,-122.3989378,0,Coffee Shop,Men's Store,Food Truck,Gym / Fitness Center,Cosmetics Shop,Restaurant,Gym,Japanese Restaurant,Park,Seafood Restaurant
+32,Fisherman's Wharf,37.8091669,-122.4165994,0,Ice Cream Shop,Historic Site,Tour Provider,Pharmacy,Diner,Food Truck,Gym / Fitness Center,Seafood Restaurant,Hotel,Breakfast Spot
+33,Forest Hill,37.7474307,-122.4635825,0,French Restaurant,Japanese Restaurant,Playground,Hotpot Restaurant,Yemeni Restaurant,Food,Eye Doctor,Fabric Shop,Farmers Market,Fast Food Restaurant
+34,Forest Knolls,37.7586,-122.4595,1,Trail,Park,Garden,Mountain,Bus Stop,Salad Place,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market
+35,Glen Park,37.734281,-122.4344696,0,Coffee Shop,Café,Park,Grocery Store,Trail,Baseball Field,Sandwich Place,Mexican Restaurant,Thai Restaurant,Gym
+36,Golden Gate Heights,37.7527,-122.4708,1,Trail,Park,Scenic Lookout,Rental Car Location,Video Game Store,Tennis Court,Pharmacy,Dim Sum Restaurant,Exhibit,Fabric Shop
+37,Haight-Ashbury,37.770028,-122.4469827,0,Café,Boutique,Thrift / Vintage Store,Clothing Store,Board Shop,Breakfast Spot,Gift Shop,Convenience Store,Coffee Shop,Pizza Place
+38,Hayes Valley,37.7766853,-122.4229361,0,Wine Bar,Clothing Store,Sushi Restaurant,Boutique,Pizza Place,French Restaurant,New American Restaurant,Cocktail Bar,Optical Shop,Italian Restaurant
+39,Hunters Point,37.7267715,-122.3715718,0,Business Service,Spa,Outdoor Sculpture,Grocery Store,Harbor / Marina,Yemeni Restaurant,Food Court,Farmers Market,Fast Food Restaurant,Filipino Restaurant
+40,India Basin,37.7360416,-122.370526,2,Home Service,Park,Exhibit,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market,Flower Shop,Food
+41,Ingleside,37.7229872,-122.4530272,0,Dim Sum Restaurant,Bus Station,Mexican Restaurant,Bubble Tea Shop,Vietnamese Restaurant,Poke Place,College Gym,Sandwich Place,College Cafeteria,Coffee Shop
+42,Inglewood Terraces,37.725,-122.46861,0,Playground,Park,Japanese Restaurant,Racetrack,Gym,Convenience Store,Construction & Landscaping,Massage Studio,Pool Hall,Food
+43,Inner Sunset,37.76145,-122.4676432,0,Coffee Shop,Ice Cream Shop,Bakery,Sandwich Place,Korean Restaurant,Mediterranean Restaurant,Vietnamese Restaurant,Breakfast Spot,Gym,Sushi Restaurant
+44,Irish Hill,37.7589682,-122.3860326,0,Gym / Fitness Center,Wine Bar,Café,Bakery,Dog Run,Brewery,Restaurant,Gift Shop,Cocktail Bar,Yoga Studio
+45,Islais Creek,37.740882,-122.442476,1,Trail,Playground,Shopping Mall,Pharmacy,Korean Restaurant,Dim Sum Restaurant,Park,Coffee Shop,Grocery Store,Salon / Barbershop
+46,Jackson Square,37.797,-122.4032,0,Italian Restaurant,Café,Cocktail Bar,Coffee Shop,Men's Store,New American Restaurant,Seafood Restaurant,Chinese Restaurant,Scenic Lookout,Bakery
+47,Japantown,37.7855789,-122.4298089,0,Japanese Restaurant,Bakery,Grocery Store,Tea Room,Boutique,Gift Shop,Ramen Restaurant,Spa,Shopping Mall,Creperie
+48,Jordan Park,37.7846516,-122.4566383,0,Coffee Shop,Bakery,Italian Restaurant,Cosmetics Shop,American Restaurant,Bank,Wine Shop,Burmese Restaurant,Pizza Place,Shanghai Restaurant
+49,Laguna Honda,37.747987,-122.4591161,1,Trail,Light Rail Station,Park,Hotpot Restaurant,Event Space,Burger Joint,Lake,Japanese Restaurant,Bus Stop,French Restaurant
+50,Lake Street,37.7866795,-122.4647071,0,Japanese Restaurant,Vietnamese Restaurant,Burmese Restaurant,Chinese Restaurant,Bakery,Thai Restaurant,Golf Course,Candy Store,Tea Room,Beer Bar
+51,Lakeside,37.7265,-122.4734,0,Bakery,Food Truck,Cosmetics Shop,Clothing Store,Mobile Phone Shop,Juice Bar,Coffee Shop,Candy Store,Kids Store,Food
+52,Lakeshore,37.7233,-122.4887,0,Gym,ATM,Golf Course,American Restaurant,Pizza Place,College Cafeteria,Park,Food Court,Fast Food Restaurant,Filipino Restaurant
+54,Lincoln Manor,37.7806,-122.4978,0,Pizza Place,Japanese Restaurant,Seafood Restaurant,Burmese Restaurant,Bar,Outdoor Sculpture,Moroccan Restaurant,Trail,Sandwich Place,Pharmacy
+55,Little Hollywood,37.71145,-122.39843,0,Light Rail Station,Sandwich Place,Breakfast Spot,Train Station,Convenience Store,Coffee Shop,Yemeni Restaurant,Fabric Shop,Farmers Market,Fast Food Restaurant
+56,Little Russia,37.7802,-122.4817,0,Sushi Restaurant,Grocery Store,Korean Restaurant,Café,Vietnamese Restaurant,Mexican Restaurant,Pizza Place,Thai Restaurant,Chinese Restaurant,Restaurant
+57,Little Saigon,37.7843156,-122.4163481,0,Coffee Shop,Sandwich Place,Vietnamese Restaurant,Thai Restaurant,Bar,Mexican Restaurant,Sushi Restaurant,Korean Restaurant,Burger Joint,Bookstore
+58,Lone Mountain,37.7790963,-122.4519159,0,Coffee Shop,Café,Thai Restaurant,Wine Bar,Furniture / Home Store,Japanese Restaurant,Mexican Restaurant,Middle Eastern Restaurant,Sushi Restaurant,Movie Theater
+59,Lower Haight,37.7719261,-122.4324791274891,0,Coffee Shop,Dive Bar,Bakery,Record Shop,Park,Boutique,Burrito Place,Bus Line,Sandwich Place,Cocktail Bar
+60,Lower Pacific Heights,37.7857666,-122.4389042,0,Bakery,Gym / Fitness Center,Chinese Restaurant,Yoga Studio,Salon / Barbershop,Café,Spa,Sushi Restaurant,Burrito Place,Bus Stop
+61,Lower Nob Hill,37.789,-122.4109,0,Hotel,Boutique,Speakeasy,Cocktail Bar,Café,American Restaurant,Art Gallery,Men's Store,Breakfast Spot,Burger Joint
+62,Marina District,37.8029843,-122.4374715,0,Gym / Fitness Center,Pizza Place,Cosmetics Shop,Deli / Bodega,Coffee Shop,Italian Restaurant,Mexican Restaurant,Sushi Restaurant,Park,Spa
+63,Merced Heights,37.7175565,-122.47006854814528,0,Rental Car Location,Coffee Shop,Pizza Place,Playground,Poke Place,Light Rail Station,Gym,Park,Smoke Shop,Chinese Restaurant
+64,Merced Manor,37.733343149999996,-122.47855896473526,0,Gym,Park,Music Venue,Bakery,Art Gallery,Food Truck,Bank,Farmers Market,Weight Loss Center,Restaurant
+65,Midtown Terrace,37.7508,-122.4538,0,Dog Run,Garden,Playground,Scenic Lookout,Food & Drink Shop,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market
+66,Mid-Market,37.7805,-122.4125,0,Coffee Shop,Marijuana Dispensary,Bakery,Beer Bar,Vietnamese Restaurant,Pizza Place,Plaza,Performing Arts Venue,Deli / Bodega,American Restaurant
+67,Miraloma Park,37.7383,-122.4533,2,Park,Tree,Playground,Monument / Landmark,Yemeni Restaurant,Exhibit,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant
+68,Mission Bay,37.7707742,-122.3911712,0,Food Truck,Coffee Shop,Park,Gym,Pharmacy,Harbor / Marina,Pizza Place,Performing Arts Venue,Café,Street Food Gathering
+69,Mission District,37.75993,-122.4191376,0,Mexican Restaurant,Bar,Ice Cream Shop,Indian Restaurant,Gift Shop,Latin American Restaurant,Cocktail Bar,Coffee Shop,New American Restaurant,Bakery
+70,Mission Dolores,37.7597203,-122.4271322952394,0,Park,Scenic Lookout,Plaza,Grocery Store,Playground,Pizza Place,Coffee Shop,Yoga Studio,Café,Bookstore
+71,Mission Terrace,37.7246,-122.4434,0,Pool,Sandwich Place,Dessert Shop,Metro Station,Light Rail Station,BBQ Joint,Park,Ice Cream Shop,Fabric Shop,Farmers Market
+72,Monterey Heights,37.7323,-122.4616,1,Trail,Bus Line,Fountain,Scenic Lookout,Park,Yemeni Restaurant,Food,Fabric Shop,Farmers Market,Fast Food Restaurant
+73,Mount Davidson,37.7382643,-122.4533047,2,Park,Tree,Playground,Monument / Landmark,Yemeni Restaurant,Exhibit,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant
+74,Nob Hill,37.7932622,-122.415249,0,Hotel,Italian Restaurant,Café,Bar,Coffee Shop,French Restaurant,Wine Bar,Spa,Hotel Bar,Grocery Store
+75,Noe Valley,37.7515906,-122.4320814,0,Bookstore,Bakery,Gift Shop,Sushi Restaurant,Wine Shop,Italian Restaurant,Café,Yoga Studio,Burmese Restaurant,Bus Stop
+76,North Beach,37.8011749,-122.4090021,0,Italian Restaurant,Pizza Place,Café,Coffee Shop,Park,Chinese Restaurant,Bakery,Trail,Dive Bar,Cocktail Bar
+77,North of Panhandle,37.7784081,-122.4425992,0,Sushi Restaurant,Coffee Shop,Italian Restaurant,Bar,Liquor Store,Café,Bubble Tea Shop,Burrito Place,Cosmetics Shop,Diner
+78,Oceanview,37.7136512,-122.457483,0,Grocery Store,Intersection,Convenience Store,Thai Restaurant,Supermarket,Coffee Shop,Light Rail Station,Liquor Store,Chinese Restaurant,Playground
+79,Outer Mission,37.7157,-122.4458,0,Bus Station,Mexican Restaurant,Chinese Restaurant,Latin American Restaurant,Pizza Place,Cosmetics Shop,Liquor Store,Fast Food Restaurant,Grocery Store,Men's Store
+80,Outer Sunset,37.7467,-122.4863,0,Dumpling Restaurant,Chinese Restaurant,Gastropub,Sushi Restaurant,Café,Gym / Fitness Center,Pizza Place,Toy / Game Store,Bubble Tea Shop,Korean Restaurant
+81,Pacific Heights,37.7927171,-122.4356445,0,Cosmetics Shop,Sandwich Place,Coffee Shop,French Restaurant,Gift Shop,Salon / Barbershop,Park,Grocery Store,Ice Cream Shop,Wine Bar
+82,Parkmerced,37.71717615,-122.47894731974368,0,Rental Car Location,Gym,Park,Coffee Shop,Burger Joint,Dog Run,Church,Smoke Shop,Candy Store,Pizza Place
+83,Parkside,37.733,-122.4786,0,Gym,Park,Bank,Bakery,High School,Art Gallery,Food Truck,Pet Store,Weight Loss Center,Restaurant
+84,Parnassus,37.7652671,-122.4477545,0,Convenience Store,Wine Bar,Breakfast Spot,Playground,Monument / Landmark,Middle Eastern Restaurant,Mexican Restaurant,Bus Station,Cheese Shop,Toy / Game Store
+85,Polk Gulch,37.7896,-122.4205,0,Grocery Store,Massage Studio,Sushi Restaurant,Pet Store,Wine Bar,Gym,Café,Cocktail Bar,Gym / Fitness Center,Steakhouse
+86,Portola,37.726379,-122.4085514,0,Vietnamese Restaurant,Chinese Restaurant,Sandwich Place,Bakery,Grocery Store,Recreation Center,Playground,Bus Station,Bank,BBQ Joint
+87,Portola Place,37.728,-122.3976,0,Dance Studio,Bakery,Pool,Piercing Parlor,Coffee Shop,Pharmacy,Business Service,Mexican Restaurant,Dessert Shop,American Restaurant
+88,Potrero Hill,37.759652,-122.3980262,0,Café,Garden,Breakfast Spot,Coffee Shop,Grocery Store,Park,Peruvian Restaurant,Hill,Mexican Restaurant,Sandwich Place
+89,Presidio,37.798745600000004,-122.46458892410745,0,Brewery,Art Gallery,General Entertainment,Bowling Alley,Movie Theater,Outdoor Sculpture,Memorial Site,Trail,Tunnel,Asian Restaurant
+90,Presidio Heights,37.7887511,-122.4530266,0,Playground,Coffee Shop,American Restaurant,Cupcake Shop,Sporting Goods Shop,Baseball Field,Men's Store,Miscellaneous Shop,Bookstore,Gourmet Shop
+91,Richmond District,37.7806432,-122.4725964,0,Bakery,Chinese Restaurant,Grocery Store,Asian Restaurant,Japanese Curry Restaurant,Coffee Shop,Korean Restaurant,Motel,Food Court,Bank
+92,Rincon Hill,37.786147,-122.3924078,0,Coffee Shop,Gym,Café,Deli / Bodega,Italian Restaurant,Spa,American Restaurant,Chinese Restaurant,Harbor / Marina,Brewery
+93,Russian Hill,37.8000729,-122.4170942,0,Park,Italian Restaurant,Playground,Coffee Shop,Café,Sushi Restaurant,Pizza Place,Indian Restaurant,Dive Bar,Wine Bar
+94,Saint Francis Wood,37.7346534,-122.4680272,0,Chinese Restaurant,Pub,Yoga Studio,Toy / Game Store,Shipping Store,Coffee Shop,Comic Shop,Cosmetics Shop,Pizza Place,Pharmacy
+95,Sea Cliff,37.7859,-122.4907,1,Trail,Playground,Pharmacy,Beach,Golf Course,Tea Room,Scenic Lookout,Yemeni Restaurant,Fabric Shop,Farmers Market
+97,Silver Terrace,37.7338538,-122.4000282,0,Dessert Shop,Bus Stop,Soccer Field,Grocery Store,Yemeni Restaurant,Food Court,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market
+98,South Beach,37.7798139,-122.3911499,0,Baseball Stadium,Coffee Shop,Café,Gym,Bar,Burger Joint,Thai Restaurant,Outdoor Sculpture,New American Restaurant,Mexican Restaurant
+99,South End,37.8077,-122.4211,0,Chocolate Shop,Historic Site,Ice Cream Shop,Scenic Lookout,Park,Diner,Food Truck,Boat or Ferry,Gift Shop,Tour Provider
+100,South of Market,37.7808925,-122.4009518,0,Pizza Place,Nightclub,Coffee Shop,Spa,Vietnamese Restaurant,Gym,Bubble Tea Shop,Tea Room,Wine Shop,Gym / Fitness Center
+101,South Park,37.7815898,-122.39397466931547,0,Coffee Shop,Café,Gym,New American Restaurant,Baseball Stadium,Bar,Burger Joint,Mediterranean Restaurant,Residential Building (Apartment / Condo),Brewery
+102,Sunnydale,37.7092072,-122.4049659,0,Coffee Shop,Light Rail Station,Grocery Store,Convenience Store,Wine Shop,Automotive Shop,Chinese Restaurant,Vietnamese Restaurant,Park,Donut Shop
+103,Sunnyside,37.7307,-122.4466,0,Park,Bar,Liquor Store,Cantonese Restaurant,Trail,Grocery Store,Mountain,Pizza Place,Dumpling Restaurant,Café
+104,Sunset District,37.7535418,-122.4952495,0,Chinese Restaurant,Dim Sum Restaurant,Bubble Tea Shop,Asian Restaurant,Playground,Pizza Place,Elementary School,Sandwich Place,Food,Cantonese Restaurant
+105,Telegraph Hill,37.800785,-122.4040908,0,Italian Restaurant,Café,Coffee Shop,Pizza Place,New American Restaurant,Seafood Restaurant,Scenic Lookout,Cocktail Bar,Bakery,Gift Shop
+106,Tenderloin,37.7842493,-122.4139933,0,Vietnamese Restaurant,Coffee Shop,Theater,Cocktail Bar,Sandwich Place,Bar,Thai Restaurant,Breakfast Spot,Burger Joint,Mexican Restaurant
+107,Treasure Island,37.8233541,-122.37015310228705,0,Baseball Field,American Restaurant,Home Service,Flea Market,Athletics & Sports,Gym,Island,Grocery Store,Rugby Pitch,Food
+108,Twin Peaks,37.75464,-122.44648,1,Trail,Scenic Lookout,Garden,Bus Station,Bus Stop,Hill,Reservoir,Fountain,Frozen Yogurt Shop,Eye Doctor
+109,Union Square,37.7879363,-122.40751740318035,0,Boutique,Hotel,Spa,Clothing Store,Women's Store,Gym / Fitness Center,Coffee Shop,Jewelry Store,Cocktail Bar,Sushi Restaurant
+110,University Mound,37.7238866,-122.4105938,0,Lake,Baseball Field,Yemeni Restaurant,Food Court,Fabric Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market,Flower Shop
+111,Upper Market,37.7543,-122.4436,1,Trail,Scenic Lookout,Reservoir,Park,Café,Hill,Flea Market,Frozen Yogurt Shop,Eye Doctor,Fabric Shop
+112,Visitacion Valley,37.7121319,-122.4097128,2,Cantonese Restaurant,Coffee Shop,Vietnamese Restaurant,Park,Yemeni Restaurant,Food & Drink Shop,Farmers Market,Fast Food Restaurant,Filipino Restaurant,Flea Market
+113,Vista del Mar,37.7789,-122.5076,0,Historic Site,Scenic Lookout,Tourist Information Center,Cantonese Restaurant,Beach,Trail,Pharmacy,American Restaurant,Park,Surf Spot
+114,West Portal,37.7411405,-122.4656336,0,Wine Bar,Pizza Place,Italian Restaurant,Mexican Restaurant,Coffee Shop,Burger Joint,Yoga Studio,Movie Theater,Mediterranean Restaurant,Grocery Store
+115,Western Addition,37.779559,-122.4298104,0,Grocery Store,Liquor Store,Record Shop,Pizza Place,Theater,Park,Seafood Restaurant,French Restaurant,Historic Site,Sandwich Place
+116,Westwood Highlands,37.7333,-122.4566,0,Yoga Studio,Trail,Cantonese Restaurant,Bus Line,Sushi Restaurant,Breakfast Spot,Japanese Restaurant,Food Court,Farmers Market,Fast Food Restaurant
+118,Yerba Buena,37.785,-122.4005,0,Hotel,Gym / Fitness Center,Coffee Shop,Salad Place,Art Museum,Museum,Art Gallery,Food Truck,Spa,Pizza Place
